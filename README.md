@@ -1,6 +1,6 @@
 # Hi, I'm Saurabh Gayke 👋
 
-### QA Automation Engineer | Software Tester | Frontend Developer | Quality Product Deliverer 🚀
+### QA Automation Engineer | Software Engineer | Full Stack Developer | Quality Product Deliverer 
 
 ---
 
@@ -8,7 +8,7 @@
 
 I'm a passionate **QA Automation Engineer** based in Pune, India, focused on building reliable software products through strong testing practices and quality-first development.
 
-With experience in **manual testing, automation testing, API validation, and frontend development**, I enjoy working across the software lifecycle — from identifying bugs to improving product quality and user experience.
+With experience in **manual testing, automation testing, API validation, frontend development and backend development**, I enjoy working across the software lifecycle — from identifying bugs to improving product quality and user experience.
 
 I believe great products are not just built, they're **tested, refined, and delivered with quality**.
 
