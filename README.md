@@ -118,8 +118,8 @@ I believe great products are not just built, they're **tested, refined, and deli
 ## Connect With Me 🤝
 
 📧 Email: **gaykesaurabh45@gmail.com**  
-💼 LinkedIn: **linkedin.com/in/gaykesaurabh/**  
-🐙 GitHub: **github.com/saurabhg45**  
+💼 LinkedIn: **https://www.linkedin.com/in/gaykesaurabh/**  
+🐙 GitHub: **https://github.com/saurabhg45**  
 
 ---
 
