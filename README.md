@@ -118,10 +118,10 @@ I believe great products are not just built, they're **tested, refined, and deli
 ## Connect With Me 🤝
 
 📧 Email: **gaykesaurabh45@gmail.com**  
-💼 LinkedIn: *(Add your LinkedIn URL here)*  
-🐙 GitHub: *(Add your GitHub URL here)*  
+💼 LinkedIn: **linkedin.com/in/gaykesaurabh/**  
+🐙 GitHub: **github.com/saurabhg45**  
 
 ---
 
-### Quote I Follow ✨
+### Motivation
 > Quality is never an accident; it is always the result of intelligent effort.
